@@ -1,0 +1,32 @@
+
+.div_A {
+    width: 500px; 
+    height: 500px; 
+    background-color: #DA910F;
+}
+
+.div_B {
+    width: 50%; 
+    height: 50%; 
+    background-color: #50CF01;
+}
+
+.dougras {
+    color: whitesmoke; 
+    background-color: red; 
+    font-size: 25px; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+}
+
+.div_C {
+    width: 50%; 
+    height: 50vh; 
+    background-color: #86BEDA;
+}
+
+.div_D {
+    width: 75vw; 
+    height: 50%; 
+    background-color: #FF0000;
+}
